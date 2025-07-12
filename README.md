@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frz013&label=Profile%20views&color=0e75b6&style=flat" alt="frz013" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frz013" alt="frz013" /></a> </p>
 
 ## 🎯 Goals and Aspirations
 
@@ -32,6 +31,12 @@ Feel free to reach out to me or check out my projects!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frz013&show_icons=true&locale=en" alt="frz013" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frz013&" alt="frz013" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frz013/frz013/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frz013/frz013/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frz013/frz013/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ---
