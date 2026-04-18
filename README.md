@@ -40,5 +40,3 @@ Feel free to reach out to me or check out my projects!
 
 
 ---
-
-Thank you for visiting my profile! 😊
