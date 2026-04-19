@@ -39,7 +39,6 @@ I am learning step by step and building projects to improve my skills.
 
 - JavaScript
 - Python
-- Git and GitHub
 
 ## Let's Connect
 
